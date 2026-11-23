@@ -24,6 +24,18 @@ node scripts/bygg.mjs     # CSV → site/aterforsaljare.json (slår upp nya adre
 node scripts/server.mjs   # förhandsvisning på http://localhost:5179
 ```
 
+## Köra som Docker-container
+
+Webbappen finns som en färdig image som byggs och testas av GitHub Actions vid varje push:
+
+```bash
+docker run -d -p 8080:8080 --restart unless-stopped --name rooh-aterforsaljare ghcr.io/joto77/rooh-aterforsaljare-karta:latest
+```
+
+Du kan också bygga imagen själv från repot med `docker compose up -d --build`. Sidan svarar på http://localhost:8080 och har en hälsokontroll på `/halsa`.
+
+Imagen innehåller nginx (som körs utan root) och den byggda sidan. Sidan får bara bäddas in på rooh.se och i Litiums förhandsvisning, vilket styrs av `frame-ancestors` i `docker/nginx.conf`. När listan ändras byggs en ny image. På servern hämtar du den med `docker pull` och startar om containern.
+
 ## Bädda in på rooh.se
 
 Lägg ett **Rooh text**-block på sidan och klistra in följande i redigerarens källkodsläge:

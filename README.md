@@ -41,7 +41,7 @@ Imagen innehåller nginx (som körs utan root) och den byggda sidan. Sidan får 
 Lägg ett **Rooh text**-block på sidan och klistra in följande i redigerarens källkodsläge ("Source"). Växla sedan tillbaka till vanligt läge innan du sparar, annars sparas inte ändringen.
 
 ```html
-<style>.content:has(> .rooh-af){max-width:none!important;width:100%}</style><object class="rooh-af" type="text/html" data="https://joto77.github.io/rooh-aterforsaljare-karta/" title="Hitta återförsäljare" style="display:block;width:100%;height:700px;border:0"></object>
+<style>.content:has(> .rooh-af){max-width:none!important;width:100%}.rooh-af{height:85vh!important;min-height:700px}</style><object class="rooh-af" type="text/html" data="https://joto77.github.io/rooh-aterforsaljare-karta/" title="Hitta återförsäljare" style="display:block;width:100%;height:700px;border:0"></object>
 ```
 
 Varför `<object>` och inte `<iframe>`: Litiums CKEditor lägger automatiskt till `sandbox=""` på alla iframes, och det stänger av JavaScript så att kartan blir tom. `<object>` lämnas orört.

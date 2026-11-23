@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hitta återförsäljare – ROOH</title>
+  <meta name="robots" content="noindex">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="af">
+    <aside class="af-panel">
+      <form class="af-sok" role="search" autocomplete="off">
+        <label for="sok" class="af-etikett">Sök på ort, postnummer eller butik</label>
+        <div class="af-sokrad">
+          <input id="sok" type="search" placeholder="T.ex. Göteborg eller 114 30" enterkeyhint="search">
+          <button type="submit">Sök</button>
+        </div>
+        <p class="af-status" aria-live="polite"></p>
+      </form>
+      <ul class="af-lista" aria-label="Återförsäljare"></ul>
+    </aside>
+    <div class="af-karta" id="karta" role="region" aria-label="Karta över återförsäljare"></div>
+  </div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

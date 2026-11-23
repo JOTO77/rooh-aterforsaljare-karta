@@ -1,0 +1,872 @@
+[
+ {
+  "namn": "Alcro Studio Ystad",
+  "adress": "Koppargatan 1",
+  "postnr": "271 39",
+  "ort": "Ystad",
+  "telefon": "0411-55 74 00",
+  "hemsida": "https://www.alcrostudio.se/sv-SE/butiker/alcro-studio-ystad",
+  "lat": 55.43963,
+  "lng": 13.835872
+ },
+ {
+  "namn": "Bad & Värme Boländerna",
+  "adress": "Bolandsgatan 9",
+  "postnr": "753 23",
+  "ort": "Uppsala",
+  "telefon": "018-444 04 04",
+  "hemsida": "https://www.bad-varme.se/ort/uppsala-bolanderna/",
+  "lat": 59.854213,
+  "lng": 17.671526
+ },
+ {
+  "namn": "Bad & Värme Rörcentrum Luleå",
+  "adress": "Banvägen 17 B",
+  "postnr": "973 46",
+  "ort": "Luleå",
+  "telefon": "0920-108 80",
+  "hemsida": "https://www.bad-varme.se/ort/lulea/",
+  "lat": 65.609851,
+  "lng": 22.120636
+ },
+ {
+  "namn": "Bad & Värme Skara",
+  "adress": "Mejerigatan 2",
+  "postnr": "532 40",
+  "ort": "Skara",
+  "telefon": "0511-101 59",
+  "hemsida": "https://www.bad-varme.se/ort/skara/",
+  "lat": 58.380564,
+  "lng": 13.421903
+ },
+ {
+  "namn": "Bad & Värme Visby",
+  "adress": "Hyvelgatan 11",
+  "postnr": "621 41",
+  "ort": "Visby",
+  "telefon": "0498-500 76",
+  "hemsida": "https://www.bad-varme.se/ort/visby/",
+  "lat": 57.637344,
+  "lng": 18.329456
+ },
+ {
+  "namn": "Bad & Värme Västerås",
+  "adress": "Retortgatan 5",
+  "postnr": "721 30",
+  "ort": "Västerås",
+  "telefon": "021-38 04 30",
+  "hemsida": "https://www.bad-varme.se/ort/vasteras/",
+  "lat": 59.611671,
+  "lng": 16.568355
+ },
+ {
+  "namn": "Bad & Värme Östersund",
+  "adress": "Hemvägen 28",
+  "postnr": "831 64",
+  "ort": "Östersund",
+  "telefon": "063-14 01 50",
+  "hemsida": "https://www.bad-varme.se/ort/ostersund/",
+  "lat": 63.154011,
+  "lng": 14.689236
+ },
+ {
+  "namn": "Badhuset Jönköping",
+  "adress": "Kämpevägen 25",
+  "postnr": "553 02",
+  "ort": "Jönköping",
+  "telefon": "036-71 45 90",
+  "hemsida": "https://badhuset.se/butik-jonkoping",
+  "lat": 57.764469,
+  "lng": 14.167248
+ },
+ {
+  "namn": "Badkoncept",
+  "adress": "Blockgatan 29",
+  "postnr": "653 41",
+  "ort": "Karlstad",
+  "telefon": "054-21 13 30",
+  "hemsida": "https://www.badkoncept.se/",
+  "lat": 59.391167,
+  "lng": 13.472719
+ },
+ {
+  "namn": "Badrumsbutiken i Habo",
+  "adress": "Fanérgatan 17",
+  "postnr": "566 33",
+  "ort": "Habo",
+  "telefon": "036-440 04 04",
+  "hemsida": "https://www.badrumsbutikenhabo.se/butik/",
+  "lat": 57.903062,
+  "lng": 14.09935
+ },
+ {
+  "namn": "Badrumsbutiken i Sollentuna",
+  "adress": "Kanalvägen 69",
+  "postnr": "191 34",
+  "ort": "Sollentuna",
+  "telefon": "08-732 64 40",
+  "hemsida": "https://comfort.se/medlem/badrumsbutiken-i-sollentuna-ab/",
+  "lat": 59.418429,
+  "lng": 17.937725
+ },
+ {
+  "namn": "Badrumsspecialisten",
+  "adress": "Birger Jarlsgatan 55",
+  "postnr": "111 45",
+  "ort": "Stockholm",
+  "telefon": "08-545 14 545",
+  "hemsida": "https://www.badrummet.se",
+  "lat": 59.340033,
+  "lng": 18.066451
+ },
+ {
+  "namn": "Beijer Göteborg Hisings Backa",
+  "adress": "Exportgatan 3",
+  "postnr": "422 46",
+  "ort": "Hisings Backa",
+  "telefon": "075-241 33 10",
+  "hemsida": "https://www.beijerbygg.se/privat/sv/goteborg-hisings-backa",
+  "lat": 57.730744,
+  "lng": 11.987313
+ },
+ {
+  "namn": "Bygg-Ole Nacka",
+  "adress": "Skvaltans väg 15",
+  "postnr": "131 39",
+  "ort": "Nacka",
+  "telefon": "08-601 12 00",
+  "hemsida": "https://www.beijerbygg.se/privat/sv/bygg-ole-nacka",
+  "lat": 59.31297,
+  "lng": 18.179484
+ },
+ {
+  "namn": "Centro Kakel & Klinker Bromma",
+  "adress": "Bällstavägen 102",
+  "postnr": "168 64",
+  "ort": "Bromma",
+  "telefon": "08-442 90 50",
+  "hemsida": "https://centro.se/kontakt-stockholm-bromma-proffsbutik",
+  "lat": 59.361839,
+  "lng": 17.936147
+ },
+ {
+  "namn": "Centro Kakel & Klinker Högsbo",
+  "adress": "August Barks gata 1",
+  "postnr": "421 32",
+  "ort": "Västra Frölunda",
+  "telefon": null,
+  "hemsida": "https://centro.se/kontakt-goteborg-hogsbo-kakelstudio",
+  "lat": 57.656998,
+  "lng": 11.911899
+ },
+ {
+  "namn": "Centro Kakel & Klinker Järfälla",
+  "adress": "Girovägen 3",
+  "postnr": "175 62",
+  "ort": "Järfälla",
+  "telefon": "08-442 90 50",
+  "hemsida": "https://centro.se/kontakt-stockholm-jarfalla-kakelstudio",
+  "lat": 59.40722,
+  "lng": 17.846421
+ },
+ {
+  "namn": "Centro Kakel & Klinker Malmö",
+  "adress": "Höjdrodergatan 29",
+  "postnr": "212 39",
+  "ort": "Malmö",
+  "telefon": null,
+  "hemsida": "https://centro.se/kontakt-malmo-bulltofta-kakelbutik",
+  "lat": 55.603747,
+  "lng": 13.059616
+ },
+ {
+  "namn": "Centro Kakel & Klinker Sätra",
+  "adress": "Murmästarvägen 43",
+  "postnr": "127 35",
+  "ort": "Skärholmen",
+  "telefon": null,
+  "hemsida": "https://centro.se/kontakt-stockholm-satra-kakelstudio",
+  "lat": 59.287642,
+  "lng": 17.9456
+ },
+ {
+  "namn": "Centro Kakel & Klinker Täby",
+  "adress": "Tillverkarvägen 13",
+  "postnr": "187 66",
+  "ort": "Täby",
+  "telefon": null,
+  "hemsida": "https://www.centro.se/kontakt-stockhom-taby-kakelbutik-home",
+  "lat": 59.467261,
+  "lng": 18.133155
+ },
+ {
+  "namn": "Centro Kakel & Klinker Upplands Väsby",
+  "adress": "Stockholmsvägen 37",
+  "postnr": "194 61",
+  "ort": "Upplands Väsby",
+  "telefon": null,
+  "hemsida": "https://centro.se/kontakt-stockholm-upplands-vasby-proffsbutik",
+  "lat": 59.496545,
+  "lng": 17.920842
+ },
+ {
+  "namn": "Centro Kakel & Klinker Örnsköldsvik",
+  "adress": "Sjögatan 4C",
+  "postnr": "891 60",
+  "ort": "Örnsköldsvik",
+  "telefon": null,
+  "hemsida": "https://centro.se/kontakt-ornskoldsvik-kakelbutik",
+  "lat": 63.283561,
+  "lng": 18.733776
+ },
+ {
+  "namn": "CN Färgcenter",
+  "adress": "Jakobsbergsgatan 57",
+  "postnr": "271 46",
+  "ort": "Ystad",
+  "telefon": "0411-659 50",
+  "hemsida": "https://cnfargcenter.se/kontakt/",
+  "lat": 55.44113,
+  "lng": 13.831987
+ },
+ {
+  "namn": "Comfort Halmstad",
+  "adress": "Knut Peters väg 40",
+  "postnr": "302 41",
+  "ort": "Halmstad",
+  "telefon": "035-10 62 88",
+  "hemsida": "https://www.comfort.se/comfort-halmstad/",
+  "lat": 56.670646,
+  "lng": 12.800629
+ },
+ {
+  "namn": "Comfort Vinbergs Rör",
+  "adress": "Mellangårdsvägen 1",
+  "postnr": "311 50",
+  "ort": "Falkenberg",
+  "telefon": "0346-71 71 55",
+  "hemsida": "https://comfort.se/vinbergs-ror-ab/",
+  "lat": 56.932548,
+  "lng": 12.521252
+ },
+ {
+  "namn": "CS Jörans Kakel",
+  "adress": "Lagergatan 1 A",
+  "postnr": "598 40",
+  "ort": "Vimmerby",
+  "telefon": "0492-107 28",
+  "hemsida": "https://www.joranskakel.se",
+  "lat": 57.657792,
+  "lng": 15.860261
+ },
+ {
+  "namn": "Designa Södertälje",
+  "adress": "Bergaholmsvägen 10",
+  "postnr": "152 42",
+  "ort": "Södertälje",
+  "telefon": "08-121 406 04",
+  "hemsida": "https://www.designa.se",
+  "lat": 59.204708,
+  "lng": 17.646494
+ },
+ {
+  "namn": "DN Bygg & Inredning",
+  "adress": "Sankt Eriksgatan 24",
+  "postnr": "112 39",
+  "ort": "Stockholm",
+  "telefon": "08-545 717 70",
+  "hemsida": "https://dnbygg.se/",
+  "lat": 59.331758,
+  "lng": 18.03126
+ },
+ {
+  "namn": "Elon MatsÅke på Teg",
+  "adress": "Domarevägen 28B",
+  "postnr": "904 33",
+  "ort": "Umeå",
+  "telefon": "090-12 44 82",
+  "hemsida": "https://www.elon.se/butiker/umea/elon-matsake-pa-teg",
+  "lat": 63.819975,
+  "lng": 20.24116
+ },
+ {
+  "namn": "FP Badrumsspecialisten",
+  "adress": "August Barks gata 30A",
+  "postnr": "421 32",
+  "ort": "Västra Frölunda",
+  "telefon": "073-522 26 64",
+  "hemsida": "https://www.fpbygg.se/",
+  "lat": 57.656998,
+  "lng": 11.911899
+ },
+ {
+  "namn": "Färg & Kakelhuset Uddevalla",
+  "adress": "Pukevägen 3",
+  "postnr": "451 55",
+  "ort": "Uddevalla",
+  "telefon": "0522-64 50 70",
+  "hemsida": "https://www.fargokakelhuset.se/kontakta-oss/",
+  "lat": 58.349055,
+  "lng": 11.938285
+ },
+ {
+  "namn": "Golv & Badstudion Norrköping",
+  "adress": "Malmgatan 14A",
+  "postnr": "602 23",
+  "ort": "Norrköping",
+  "telefon": "011-13 33 00",
+  "hemsida": "https://www.golvobadstudion.se/hitta-och-kontakta-oss",
+  "lat": 58.618589,
+  "lng": 16.170322
+ },
+ {
+  "namn": "Golv & Badstudion Västberga",
+  "adress": "Lerkrogsvägen 9-11",
+  "postnr": "126 79",
+  "ort": "Hägersten",
+  "telefon": "070-325 57 35",
+  "hemsida": "https://www.golvobadstudion.se/hitta-och-kontakta-oss",
+  "lat": 59.292428,
+  "lng": 18.002993
+ },
+ {
+  "namn": "Golvman Vänersborg",
+  "adress": "Parallellgatan 16",
+  "postnr": "462 32",
+  "ort": "Vänersborg",
+  "telefon": "0521-633 36",
+  "hemsida": "https://www.golvman.se",
+  "lat": 58.377657,
+  "lng": 12.338014
+ },
+ {
+  "namn": "Golvpoolen Göteborg",
+  "adress": "Victor Hasselblads gata 11",
+  "postnr": "421 31",
+  "ort": "Västra Frölunda",
+  "telefon": "031-726 55 00",
+  "hemsida": "https://www.golvpoolen.se/vara-butiker/golvpoolen-goteborg/",
+  "lat": 57.654985,
+  "lng": 11.937962
+ },
+ {
+  "namn": "Golvpoolen Helsingborg",
+  "adress": "Garnisonsgatan 18",
+  "postnr": "254 66",
+  "ort": "Helsingborg",
+  "telefon": "042-450 77 70",
+  "hemsida": "https://www.golvpoolen.se/vara-butiker/golvpoolen-helsingborg/",
+  "lat": 56.075555,
+  "lng": 12.730515
+ },
+ {
+  "namn": "Golvpoolen Malmö",
+  "adress": "Jägersrovägen 82",
+  "postnr": "212 37",
+  "ort": "Malmö",
+  "telefon": "040-679 73 70",
+  "hemsida": "https://www.golvpoolen.se/vara-butiker/golvpoolen-malmo/",
+  "lat": 55.569394,
+  "lng": 13.060888
+ },
+ {
+  "namn": "Golvpoolen Stockholm",
+  "adress": "Birger Jarlsgatan 62",
+  "postnr": "114 25",
+  "ort": "Stockholm",
+  "telefon": "08-522 32 100",
+  "hemsida": "https://www.golvpoolen.se/vara-butiker/golvpoolen-stockholm/",
+  "lat": 59.341919,
+  "lng": 18.06507
+ },
+ {
+  "namn": "Halmstad Kakelhus",
+  "adress": "Karlsrovägen 73-75",
+  "postnr": "302 41",
+  "ort": "Halmstad",
+  "telefon": "035-10 06 20",
+  "hemsida": "https://halmstadkakelhus.se",
+  "lat": 56.676791,
+  "lng": 12.818292
+ },
+ {
+  "namn": "Happy Homes Varberg",
+  "adress": "Härdgatan 33",
+  "postnr": "432 32",
+  "ort": "Varberg",
+  "telefon": "0340-67 58 60",
+  "hemsida": "https://www.happyhomes.se/butiker/varberg",
+  "lat": 57.117286,
+  "lng": 12.29249
+ },
+ {
+  "namn": "Hero Kakel Askim",
+  "adress": "Hantverksvägen 7",
+  "postnr": "436 33",
+  "ort": "Askim",
+  "telefon": "031-28 03 03",
+  "hemsida": "https://herokakel.se/kontakt/",
+  "lat": 57.642724,
+  "lng": 11.94777
+ },
+ {
+  "namn": "Hero Kakel Kungsbacka",
+  "adress": "Magasinsgatan 8",
+  "postnr": "434 37",
+  "ort": "Kungsbacka",
+  "telefon": "0300-56 62 50",
+  "hemsida": "https://www.herokakel.se/kontakt",
+  "lat": 57.508713,
+  "lng": 12.073445
+ },
+ {
+  "namn": "Höganäshuset",
+  "adress": "Harpsundsvägen 211",
+  "postnr": "124 59",
+  "ort": "Bandhagen",
+  "telefon": "08-556 212 80",
+  "hemsida": "https://www.hoganashuset.se/",
+  "lat": 59.268027,
+  "lng": 18.051071
+ },
+ {
+  "namn": "Interni Kakelstudio Helsingborg",
+  "adress": "Kanongatan 13",
+  "postnr": "254 67",
+  "ort": "Helsingborg",
+  "telefon": "042-400 44 88",
+  "hemsida": "https://interni.se/butiker/helsingborg/",
+  "lat": 56.083249,
+  "lng": 12.733892
+ },
+ {
+  "namn": "Interni Kakelstudio Hässleholm",
+  "adress": "Stjärnfallsvägen 1",
+  "postnr": "281 43",
+  "ort": "Hässleholm",
+  "telefon": "0451-640 40",
+  "hemsida": "https://interni.se/butiker/hassleholm/",
+  "lat": 56.168478,
+  "lng": 13.805559
+ },
+ {
+  "namn": "Interni Kakelstudio Malmö",
+  "adress": "Jägersrovägen 211",
+  "postnr": "213 77",
+  "ort": "Malmö",
+  "telefon": "040-630 37 00",
+  "hemsida": "https://interni.se/butiker/malmo/",
+  "lat": 55.564493,
+  "lng": 13.071301
+ },
+ {
+  "namn": "Interni Kakelstudio Växjö",
+  "adress": "Viktor Rydbergsgatan 40",
+  "postnr": "352 46",
+  "ort": "Växjö",
+  "telefon": "0470-229 19",
+  "hemsida": "https://interni.se/butiker/vaxjo/",
+  "lat": 56.882338,
+  "lng": 14.781866
+ },
+ {
+  "namn": "JKS Golv & Kakelservice Växjö",
+  "adress": "Mörners Väg 112",
+  "postnr": "352 46",
+  "ort": "Växjö",
+  "telefon": "0470-229 80",
+  "hemsida": "https://www.jksgolv.se",
+  "lat": 56.88646,
+  "lng": 14.767387
+ },
+ {
+  "namn": "Jäders Värme & Sanitet",
+  "adress": "Brogatan 29",
+  "postnr": "931 60",
+  "ort": "Skellefteå",
+  "telefon": "0910-548 90",
+  "hemsida": "https://www.comfort.se/jaders-varme--sanitet-aktiebolag/",
+  "lat": 64.739821,
+  "lng": 20.947071
+ },
+ {
+  "namn": "Kakel & Byggkeramik Falkenberg",
+  "adress": "Tångvägen 9",
+  "postnr": "311 32",
+  "ort": "Falkenberg",
+  "telefon": "0346-72 91 00",
+  "hemsida": "https://kakelochbygg.se",
+  "lat": 56.901218,
+  "lng": 12.467199
+ },
+ {
+  "namn": "Kakelbutiken i Karlstad",
+  "adress": "Gräsdalsgatan 7",
+  "postnr": "653 43",
+  "ort": "Karlstad",
+  "telefon": "054-57 83 90",
+  "hemsida": "https://kakelbutiken.se",
+  "lat": 59.378565,
+  "lng": 13.44653
+ },
+ {
+  "namn": "Kakeldesign Eskilstuna",
+  "adress": "Kungsgatan 72",
+  "postnr": "632 21",
+  "ort": "Eskilstuna",
+  "telefon": "016-14 20 22",
+  "hemsida": "https://kakeldesign.se/eskilstuna",
+  "lat": 59.372577,
+  "lng": 16.507294
+ },
+ {
+  "namn": "Kakeldesign Gävle",
+  "adress": "Johannesbergsvägen 19",
+  "postnr": "802 93",
+  "ort": "Gävle",
+  "telefon": "026-66 41 50",
+  "hemsida": "https://kakeldesign.se/gavle",
+  "lat": 60.632284,
+  "lng": 17.143151
+ },
+ {
+  "namn": "Kakeldesign Täby",
+  "adress": "Fogdevägen 1",
+  "postnr": "183 64",
+  "ort": "Täby",
+  "telefon": "08-27 15 60",
+  "hemsida": "https://kakeldesign.se/taby",
+  "lat": 59.440729,
+  "lng": 18.09685
+ },
+ {
+  "namn": "Kakeldesign Uppsala",
+  "adress": "Björkgatan 4",
+  "postnr": "753 28",
+  "ort": "Uppsala",
+  "telefon": "018-65 17 70",
+  "hemsida": "https://www.kakeldesign.se/uppsala",
+  "lat": 59.865681,
+  "lng": 17.661959
+ },
+ {
+  "namn": "Kakeldesign Värmdö",
+  "adress": "Fenix väg 20",
+  "postnr": "134 44",
+  "ort": "Gustavsberg",
+  "telefon": "08-402 04 39",
+  "hemsida": "https://kakeldesign.se/varmdo",
+  "lat": 59.313264,
+  "lng": 18.426938
+ },
+ {
+  "namn": "Kakeldesign Västerås",
+  "adress": "Friledningsgatan 1B",
+  "postnr": "721 37",
+  "ort": "Västerås",
+  "telefon": "021-30 22 88",
+  "hemsida": "https://kakeldesign.se/vasteras",
+  "lat": 59.641185,
+  "lng": 16.561855
+ },
+ {
+  "namn": "Kakeldesign Årsta",
+  "adress": "Upplagsvägen 5",
+  "postnr": "117 43",
+  "ort": "Stockholm",
+  "telefon": "08-402 04 34",
+  "hemsida": "https://www.kakeldesign.se/arsta",
+  "lat": 59.300297,
+  "lng": 18.02697
+ },
+ {
+  "namn": "Kakelgallerian",
+  "adress": "Tangentvägen 2",
+  "postnr": "141 75",
+  "ort": "Kungens Kurva",
+  "telefon": "08-29 35 51",
+  "hemsida": "https://kakelgallerian.se/Kontakt",
+  "lat": 59.270434,
+  "lng": 17.921058
+ },
+ {
+  "namn": "Kakelgrossisten i Jönköping",
+  "adress": "Kämpevägen 17",
+  "postnr": "553 02",
+  "ort": "Jönköping",
+  "telefon": "036-550 53 12",
+  "hemsida": "https://kakelgrossisten.se/hitta-till-oss/",
+  "lat": 57.763189,
+  "lng": 14.160439
+ },
+ {
+  "namn": "Kakelhuset Kungsbacka",
+  "adress": "Kungsparksvägen 54",
+  "postnr": "434 39",
+  "ort": "Kungsbacka",
+  "telefon": "0300-67 27 00",
+  "hemsida": "https://kakelhusetkungsbacka.se",
+  "lat": 57.51331,
+  "lng": 12.072534
+ },
+ {
+  "namn": "Kakelkompaniet",
+  "adress": "Karlavägen 58",
+  "postnr": "114 49",
+  "ort": "Stockholm",
+  "telefon": "08-728 88 44",
+  "hemsida": "https://www.kakelkompaniet.se/kontakta-oss/",
+  "lat": 59.338985,
+  "lng": 18.082728
+ },
+ {
+  "namn": "Kakelpalatzet",
+  "adress": "Södra Ågatan 18",
+  "postnr": "431 35",
+  "ort": "Mölndal",
+  "telefon": "031-27 44 10",
+  "hemsida": "https://www.kakelpalatzet.se",
+  "lat": 57.663204,
+  "lng": 12.014854
+ },
+ {
+  "namn": "Kakelspecialisten",
+  "adress": "Sockenvägen 289",
+  "postnr": "120 40",
+  "ort": "Årsta",
+  "telefon": "08-686 93 60",
+  "hemsida": "https://www.kakelspecialisten.se/",
+  "lat": 59.288456,
+  "lng": 18.057709
+ },
+ {
+  "namn": "Lunds Kakelvaruhus",
+  "adress": "Traktorvägen 19",
+  "postnr": "226 60",
+  "ort": "Lund",
+  "telefon": "046-211 21 16",
+  "hemsida": "https://lundskakelvaruhus.se/contact-02/",
+  "lat": 55.718136,
+  "lng": 13.155365
+ },
+ {
+  "namn": "Lurs Rör Tanumshede",
+  "adress": "Storemyrsvägen 9",
+  "postnr": "457 31",
+  "ort": "Tanumshede",
+  "telefon": null,
+  "hemsida": "https://www.comfort.se/stromstads-varme-sanitet/",
+  "lat": 58.727348,
+  "lng": 11.333859
+ },
+ {
+  "namn": "Materialportalen",
+  "adress": "Adolfsbergsvägen 4",
+  "postnr": "702 27",
+  "ort": "Örebro",
+  "telefon": "019-13 20 20",
+  "hemsida": "https://www.materialportalen.se/kontakt",
+  "lat": 59.258395,
+  "lng": 15.173688
+ },
+ {
+  "namn": "Megakakel Linköping",
+  "adress": "Tornbyvägen 3",
+  "postnr": "582 73",
+  "ort": "Linköping",
+  "telefon": "013-14 00 20",
+  "hemsida": "https://megakakel.se/vara-butiker/#linkoping",
+  "lat": 58.423158,
+  "lng": 15.614029
+ },
+ {
+  "namn": "Miljöhallen Golv Nässjö",
+  "adress": "Lerbacksgatan 1",
+  "postnr": "571 38",
+  "ort": "Nässjö",
+  "telefon": "0380-180 25",
+  "hemsida": "https://www.miljohallengolv.se/butiker/nassjo",
+  "lat": 57.645426,
+  "lng": 14.740051
+ },
+ {
+  "namn": "NP Nilsson Båstad",
+  "adress": "Mäshultsvägen 2",
+  "postnr": "269 36",
+  "ort": "Båstad",
+  "telefon": "0431-789 00",
+  "hemsida": "https://bygghandel.npn.se/kontakt/bastad",
+  "lat": 56.423369,
+  "lng": 12.884744
+ },
+ {
+  "namn": "NP Nilsson Halmstad",
+  "adress": "Gjutaregatan 16",
+  "postnr": "302 62",
+  "ort": "Halmstad",
+  "telefon": "035-710 77 50",
+  "hemsida": "https://bygghandel.npn.se/kontakt/halmstad",
+  "lat": 56.653956,
+  "lng": 12.901824
+ },
+ {
+  "namn": "NP Nilsson Ängelholm",
+  "adress": "Kristianstadsgatan 36",
+  "postnr": "262 71",
+  "ort": "Ängelholm",
+  "telefon": "0431-47 82 00",
+  "hemsida": "https://bygghandel.npn.se/kontakt/angelholm",
+  "lat": 56.253821,
+  "lng": 12.890926
+ },
+ {
+  "namn": "Per Kvadrat",
+  "adress": "Dalahästen",
+  "postnr": "774 61",
+  "ort": "Avesta",
+  "telefon": "0226-147 90",
+  "hemsida": "https://www.perkvadrat.se/",
+  "lat": 60.146955,
+  "lng": 16.1827
+ },
+ {
+  "namn": "R-Golv",
+  "adress": "Vipans gränd 2",
+  "postnr": "541 33",
+  "ort": "Skövde",
+  "telefon": "0500-48 85 10",
+  "hemsida": "https://www.rgolv.se/",
+  "lat": 58.386215,
+  "lng": 13.833244
+ },
+ {
+  "namn": "Rinkaby Rör",
+  "adress": "Sandhedsvägen 2",
+  "postnr": "291 76",
+  "ort": "Rinkaby",
+  "telefon": "044-22 54 90",
+  "hemsida": "https://www.rinkabyror.se/sida/om-oss/butik-rinkaby/",
+  "lat": 55.976439,
+  "lng": 14.270224
+ },
+ {
+  "namn": "Rinkaby Rör Jönköping",
+  "adress": "Källebacksvägen 30",
+  "postnr": "555 93",
+  "ort": "Jönköping",
+  "telefon": "044-22 54 90",
+  "hemsida": "https://www.rinkabyror.se/sida/om-oss/butik-jonkoping/",
+  "lat": 57.770176,
+  "lng": 14.099642
+ },
+ {
+  "namn": "Rylanders",
+  "adress": "Kontorsvägen 4",
+  "postnr": "453 38",
+  "ort": "Lysekil",
+  "telefon": "0523-184 50",
+  "hemsida": "https://www.rylanders.se",
+  "lat": 58.290831,
+  "lng": 11.463158
+ },
+ {
+  "namn": "Rör City Luleå",
+  "adress": "Midgårdsvägen 24",
+  "postnr": "973 34",
+  "ort": "Luleå",
+  "telefon": "0920-22 22 55",
+  "hemsida": "https://www.comfort.se/ror-city-i-lulea-aktiebolag/",
+  "lat": 65.602385,
+  "lng": 22.139435
+ },
+ {
+  "namn": "Skene Järn",
+  "adress": "Varbergsvägen 31",
+  "postnr": "511 62",
+  "ort": "Skene",
+  "telefon": "0320-195 00",
+  "hemsida": "https://skenejarn.se/kontakt/",
+  "lat": 57.493726,
+  "lng": 12.660531
+ },
+ {
+  "namn": "Snicken Visby",
+  "adress": "Österbyväg 30",
+  "postnr": "621 41",
+  "ort": "Visby",
+  "telefon": "0498-20 28 00",
+  "hemsida": "https://www.jabs.se/info/contact/2",
+  "lat": 57.632956,
+  "lng": 18.33866
+ },
+ {
+  "namn": "Strömstads Värme & Sanitet",
+  "adress": "Oslovägen 41",
+  "postnr": "452 35",
+  "ort": "Strömstad",
+  "telefon": "0526-130 75",
+  "hemsida": "https://www.comfort.se/stromstads-varme-sanitet/",
+  "lat": 58.948272,
+  "lng": 11.192817
+ },
+ {
+  "namn": "Stuvbutiken",
+  "adress": "Bromsgatan 5",
+  "postnr": "653 41",
+  "ort": "Karlstad",
+  "telefon": "054-18 11 97",
+  "hemsida": "https://stuvbutiken.com",
+  "lat": 59.388807,
+  "lng": 13.477698
+ },
+ {
+  "namn": "Täby Bad & Värme",
+  "adress": "Måttbandsvägen 6-10",
+  "postnr": "187 66",
+  "ort": "Täby",
+  "telefon": "08-630 07 00",
+  "hemsida": "https://www.bad-varme.se/ort/taby/",
+  "lat": 59.465715,
+  "lng": 18.131202
+ },
+ {
+  "namn": "Varbergs Kakelhus",
+  "adress": "Susvindsvägen 13",
+  "postnr": "432 32",
+  "ort": "Varberg",
+  "telefon": "0340-834 05",
+  "hemsida": "https://www.varbergskakelhus.se",
+  "lat": 57.122453,
+  "lng": 12.278873
+ },
+ {
+  "namn": "Växjö Färg & Tapet",
+  "adress": "Ljungadalsgatan 6",
+  "postnr": "352 46",
+  "ort": "Växjö",
+  "telefon": "0470-73 98 00",
+  "hemsida": "https://vft.se/",
+  "lat": 56.894029,
+  "lng": 14.767324
+ },
+ {
+  "namn": "XL-BYGG Björka",
+  "adress": "Kumla-Björka 206",
+  "postnr": "692 93",
+  "ort": "Kumla",
+  "telefon": "019-57 09 05",
+  "hemsida": "https://www.xlbygg.se/butiker/xl-bygg-bjorka-kumla/",
+  "lat": 59.127205,
+  "lng": 15.143546
+ },
+ {
+  "namn": "XL-BYGG Luleå",
+  "adress": "Nordkalottvägen 11",
+  "postnr": "972 54",
+  "ort": "Luleå",
+  "telefon": "010-150 61 00",
+  "hemsida": "https://www.xlbyggstenvalls.se/lulea/kontakta-oss",
+  "lat": 65.566072,
+  "lng": 22.092425
+ }
+]

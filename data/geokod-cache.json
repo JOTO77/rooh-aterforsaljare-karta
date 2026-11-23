@@ -1,0 +1,437 @@
+{
+ "gjutaregatan 16|302 62|halmstad": {
+  "lat": 56.653956,
+  "lng": 12.901824,
+  "precision": "adress"
+ },
+ "friledningsgatan 1b|721 37|västerås": {
+  "lat": 59.641185,
+  "lng": 16.561855,
+  "precision": "adress"
+ },
+ "august barks gata 30a|421 32|västra frölunda": {
+  "lat": 57.656998,
+  "lng": 11.911899,
+  "precision": "postnummer"
+ },
+ "sjögatan 4c|891 60|örnsköldsvik": {
+  "lat": 63.283561,
+  "lng": 18.733776,
+  "precision": "adress"
+ },
+ "birger jarlsgatan 62|114 25|stockholm": {
+  "lat": 59.341919,
+  "lng": 18.06507,
+  "precision": "adress"
+ },
+ "vipans gränd 2|541 33|skövde": {
+  "lat": 58.386215,
+  "lng": 13.833244,
+  "precision": "adress"
+ },
+ "fenix väg 20|134 44|gustavsberg": {
+  "lat": 59.313264,
+  "lng": 18.426938,
+  "precision": "adress"
+ },
+ "malmgatan 14a|602 23|norrköping": {
+  "lat": 58.618589,
+  "lng": 16.170322,
+  "precision": "adress"
+ },
+ "johannesbergsvägen 19|802 93|gävle": {
+  "lat": 60.632284,
+  "lng": 17.143151,
+  "precision": "adress"
+ },
+ "sockenvägen 289|120 40|årsta": {
+  "lat": 59.288456,
+  "lng": 18.057709,
+  "precision": "adress"
+ },
+ "harpsundsvägen 211|124 59|bandhagen": {
+  "lat": 59.268027,
+  "lng": 18.051071,
+  "precision": "postnummer"
+ },
+ "nordkalottvägen 11|972 54|luleå": {
+  "lat": 65.566072,
+  "lng": 22.092425,
+  "precision": "adress"
+ },
+ "adolfsbergsvägen 4|702 27|örebro": {
+  "lat": 59.258395,
+  "lng": 15.173688,
+  "precision": "adress"
+ },
+ "lerbacksgatan 1|571 38|nässjö": {
+  "lat": 57.645426,
+  "lng": 14.740051,
+  "precision": "adress"
+ },
+ "dalahästen|774 61|avesta": {
+  "lat": 60.146955,
+  "lng": 16.1827,
+  "precision": "postnummer"
+ },
+ "murmästarvägen 43|127 35|skärholmen": {
+  "lat": 59.287642,
+  "lng": 17.9456,
+  "precision": "adress"
+ },
+ "stockholmsvägen 37|194 61|upplands väsby": {
+  "lat": 59.496545,
+  "lng": 17.920842,
+  "precision": "adress"
+ },
+ "koppargatan 1|271 39|ystad": {
+  "lat": 55.43963,
+  "lng": 13.835872,
+  "precision": "adress"
+ },
+ "fogdevägen 1|183 64|täby": {
+  "lat": 59.440729,
+  "lng": 18.09685,
+  "precision": "adress"
+ },
+ "girovägen 3|175 62|järfälla": {
+  "lat": 59.40722,
+  "lng": 17.846421,
+  "precision": "adress"
+ },
+ "kungsgatan 72|632 21|eskilstuna": {
+  "lat": 59.372577,
+  "lng": 16.507294,
+  "precision": "adress"
+ },
+ "bolandsgatan 9|753 23|uppsala": {
+  "lat": 59.854213,
+  "lng": 17.671526,
+  "precision": "adress"
+ },
+ "lerkrogsvägen 9-11|126 79|hägersten": {
+  "lat": 59.292428,
+  "lng": 18.002993,
+  "precision": "adress"
+ },
+ "fanérgatan 17|566 33|habo": {
+  "lat": 57.903062,
+  "lng": 14.09935,
+  "precision": "adress"
+ },
+ "härdgatan 33|432 32|varberg": {
+  "lat": 57.117286,
+  "lng": 12.29249,
+  "precision": "adress"
+ },
+ "sankt eriksgatan 24|112 39|stockholm": {
+  "lat": 59.331758,
+  "lng": 18.03126,
+  "precision": "adress"
+ },
+ "hantverksvägen 7|436 33|askim": {
+  "lat": 57.642724,
+  "lng": 11.94777,
+  "precision": "adress"
+ },
+ "bällstavägen 102|168 64|bromma": {
+  "lat": 59.361839,
+  "lng": 17.936147,
+  "precision": "adress"
+ },
+ "blockgatan 29|653 41|karlstad": {
+  "lat": 59.391167,
+  "lng": 13.472719,
+  "precision": "adress"
+ },
+ "kristianstadsgatan 36|262 71|ängelholm": {
+  "lat": 56.253821,
+  "lng": 12.890926,
+  "precision": "adress"
+ },
+ "karlsrovägen 73-75|302 41|halmstad": {
+  "lat": 56.676791,
+  "lng": 12.818292,
+  "precision": "adress"
+ },
+ "tångvägen 9|311 32|falkenberg": {
+  "lat": 56.901218,
+  "lng": 12.467199,
+  "precision": "adress"
+ },
+ "karlavägen 58|114 49|stockholm": {
+  "lat": 59.338985,
+  "lng": 18.082728,
+  "precision": "adress"
+ },
+ "bromsgatan 5|653 41|karlstad": {
+  "lat": 59.388807,
+  "lng": 13.477698,
+  "precision": "adress"
+ },
+ "hyvelgatan 11|621 41|visby": {
+  "lat": 57.637344,
+  "lng": 18.329456,
+  "precision": "adress"
+ },
+ "varbergsvägen 31|511 62|skene": {
+  "lat": 57.493726,
+  "lng": 12.660531,
+  "precision": "adress"
+ },
+ "upplagsvägen 5|117 43|stockholm": {
+  "lat": 59.300297,
+  "lng": 18.02697,
+  "precision": "adress"
+ },
+ "tangentvägen 2|141 75|kungens kurva": {
+  "lat": 59.270434,
+  "lng": 17.921058,
+  "precision": "adress"
+ },
+ "kungsparksvägen 54|434 39|kungsbacka": {
+  "lat": 57.51331,
+  "lng": 12.072534,
+  "precision": "adress"
+ },
+ "gräsdalsgatan 7|653 43|karlstad": {
+  "lat": 59.378565,
+  "lng": 13.44653,
+  "precision": "adress"
+ },
+ "södra ågatan 18|431 35|mölndal": {
+  "lat": 57.663204,
+  "lng": 12.014854,
+  "precision": "adress"
+ },
+ "tornbyvägen 3|582 73|linköping": {
+  "lat": 58.423158,
+  "lng": 15.614029,
+  "precision": "adress"
+ },
+ "traktorvägen 19|226 60|lund": {
+  "lat": 55.718136,
+  "lng": 13.155365,
+  "precision": "adress"
+ },
+ "parallellgatan 16|462 32|vänersborg": {
+  "lat": 58.377657,
+  "lng": 12.338014,
+  "precision": "adress"
+ },
+ "exportgatan 3|422 46|hisings backa": {
+  "lat": 57.730744,
+  "lng": 11.987313,
+  "precision": "adress"
+ },
+ "björkgatan 4|753 28|uppsala": {
+  "lat": 59.865681,
+  "lng": 17.661959,
+  "precision": "adress"
+ },
+ "jägersrovägen 82|212 37|malmö": {
+  "lat": 55.569394,
+  "lng": 13.060888,
+  "precision": "adress"
+ },
+ "tillverkarvägen 13|187 66|täby": {
+  "lat": 59.467261,
+  "lng": 18.133155,
+  "precision": "adress"
+ },
+ "birger jarlsgatan 55|111 45|stockholm": {
+  "lat": 59.340033,
+  "lng": 18.066451,
+  "precision": "adress"
+ },
+ "mörners väg 112|352 46|växjö": {
+  "lat": 56.88646,
+  "lng": 14.767387,
+  "precision": "adress"
+ },
+ "skvaltans väg 15|131 39|nacka": {
+  "lat": 59.31297,
+  "lng": 18.179484,
+  "precision": "adress"
+ },
+ "österbyväg 30|621 41|visby": {
+  "lat": 57.632956,
+  "lng": 18.33866,
+  "precision": "adress"
+ },
+ "sandhedsvägen 2|291 76|rinkaby": {
+  "lat": 55.976439,
+  "lng": 14.270224,
+  "precision": "adress"
+ },
+ "kumla-björka 206|692 93|kumla": {
+  "lat": 59.127205,
+  "lng": 15.143546,
+  "precision": "postnummer"
+ },
+ "susvindsvägen 13|432 32|varberg": {
+  "lat": 57.122453,
+  "lng": 12.278873,
+  "precision": "adress"
+ },
+ "bergaholmsvägen 10|152 42|södertälje": {
+  "lat": 59.204708,
+  "lng": 17.646494,
+  "precision": "adress"
+ },
+ "kämpevägen 25|553 02|jönköping": {
+  "lat": 57.764469,
+  "lng": 14.167248,
+  "precision": "adress"
+ },
+ "stjärnfallsvägen 1|281 43|hässleholm": {
+  "lat": 56.168478,
+  "lng": 13.805559,
+  "precision": "adress"
+ },
+ "kontorsvägen 4|453 38|lysekil": {
+  "lat": 58.290831,
+  "lng": 11.463158,
+  "precision": "adress"
+ },
+ "lagergatan 1 a|598 40|vimmerby": {
+  "lat": 57.657792,
+  "lng": 15.860261,
+  "precision": "adress"
+ },
+ "jakobsbergsgatan 57|271 46|ystad": {
+  "lat": 55.44113,
+  "lng": 13.831987,
+  "precision": "adress"
+ },
+ "jägersrovägen 211|213 77|malmö": {
+  "lat": 55.564493,
+  "lng": 13.071301,
+  "precision": "adress"
+ },
+ "viktor rydbergsgatan 40|352 46|växjö": {
+  "lat": 56.882338,
+  "lng": 14.781866,
+  "precision": "adress"
+ },
+ "magasinsgatan 8|434 37|kungsbacka": {
+  "lat": 57.508713,
+  "lng": 12.073445,
+  "precision": "adress"
+ },
+ "banvägen 17 b|973 46|luleå": {
+  "lat": 65.609851,
+  "lng": 22.120636,
+  "precision": "adress"
+ },
+ "kanongatan 13|254 67|helsingborg": {
+  "lat": 56.083249,
+  "lng": 12.733892,
+  "precision": "adress"
+ },
+ "pukevägen 3|451 55|uddevalla": {
+  "lat": 58.349055,
+  "lng": 11.938285,
+  "precision": "postnummer"
+ },
+ "ljungadalsgatan 6|352 46|växjö": {
+  "lat": 56.894029,
+  "lng": 14.767324,
+  "precision": "adress"
+ },
+ "domarevägen 28b|904 33|umeå": {
+  "lat": 63.819975,
+  "lng": 20.24116,
+  "precision": "adress"
+ },
+ "garnisonsgatan 18|254 66|helsingborg": {
+  "lat": 56.075555,
+  "lng": 12.730515,
+  "precision": "adress"
+ },
+ "källebacksvägen 30|555 93|jönköping": {
+  "lat": 57.770176,
+  "lng": 14.099642,
+  "precision": "adress"
+ },
+ "victor hasselblads gata 11|421 31|västra frölunda": {
+  "lat": 57.654985,
+  "lng": 11.937962,
+  "precision": "adress"
+ },
+ "höjdrodergatan 29|212 39|malmö": {
+  "lat": 55.603747,
+  "lng": 13.059616,
+  "precision": "adress"
+ },
+ "august barks gata 1|421 32|västra frölunda": {
+  "lat": 57.656998,
+  "lng": 11.911899,
+  "precision": "postnummer"
+ },
+ "mäshultsvägen 2|269 36|båstad": {
+  "lat": 56.423369,
+  "lng": 12.884744,
+  "precision": "adress"
+ },
+ "kämpevägen 17|553 02|jönköping": {
+  "lat": 57.763189,
+  "lng": 14.160439,
+  "precision": "adress"
+ },
+ "kanalvägen 69|191 34|sollentuna": {
+  "lat": 59.418429,
+  "lng": 17.937725,
+  "precision": "adress"
+ },
+ "mellangårdsvägen 1|311 50|falkenberg": {
+  "lat": 56.932548,
+  "lng": 12.521252,
+  "precision": "adress"
+ },
+ "knut peters väg 40|302 41|halmstad": {
+  "lat": 56.670646,
+  "lng": 12.800629,
+  "precision": "adress"
+ },
+ "brogatan 29|931 60|skellefteå": {
+  "lat": 64.739821,
+  "lng": 20.947071,
+  "precision": "adress"
+ },
+ "storemyrsvägen 9|457 31|tanumshede": {
+  "lat": 58.727348,
+  "lng": 11.333859,
+  "precision": "adress"
+ },
+ "midgårdsvägen 24|973 34|luleå": {
+  "lat": 65.602385,
+  "lng": 22.139435,
+  "precision": "adress"
+ },
+ "oslovägen 41|452 35|strömstad": {
+  "lat": 58.948272,
+  "lng": 11.192817,
+  "precision": "adress"
+ },
+ "retortgatan 5|721 30|västerås": {
+  "lat": 59.611671,
+  "lng": 16.568355,
+  "precision": "adress"
+ },
+ "mejerigatan 2|532 40|skara": {
+  "lat": 58.380564,
+  "lng": 13.421903,
+  "precision": "adress"
+ },
+ "måttbandsvägen 6-10|187 66|täby": {
+  "lat": 59.465715,
+  "lng": 18.131202,
+  "precision": "adress"
+ },
+ "hemvägen 28|831 64|östersund": {
+  "lat": 63.154011,
+  "lng": 14.689236,
+  "precision": "adress"
+ }
+}

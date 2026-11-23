@@ -38,13 +38,17 @@ Imagen innehåller nginx (som körs utan root) och den byggda sidan. Sidan får 
 
 ## Bädda in på rooh.se
 
-Lägg ett **Rooh text**-block på sidan och klistra in följande i redigerarens källkodsläge:
+Lägg ett **Rooh text**-block på sidan och klistra in följande i redigerarens källkodsläge ("Source"). Växla sedan tillbaka till vanligt läge innan du sparar, annars sparas inte ändringen.
 
 ```html
-<iframe src="https://<github-pages-adress>/" title="Hitta återförsäljare" style="width:100%;height:700px;border:0" loading="lazy"></iframe>
+<style>.content:has(> .rooh-af){max-width:none!important;width:100%}</style><object class="rooh-af" type="text/html" data="https://joto77.github.io/rooh-aterforsaljare-karta/" title="Hitta återförsäljare" style="display:block;width:100%;height:700px;border:0"></object>
 ```
 
-Sidan fyller ut iframens höjd. I mobil visas kartan överst och listan under, och listan går att scrolla.
+Varför `<object>` och inte `<iframe>`: Litiums CKEditor lägger automatiskt till `sandbox=""` på alla iframes, och det stänger av JavaScript så att kartan blir tom. `<object>` lämnas orört.
+
+`<style>`-raden behövs för att "Rooh text"-blocket annars bara visar innehållet i en högerspalt som är 46 % bred på dator.
+
+Sidan fyller ut sin höjd. I mobil visas kartan överst och listan under, och listan går att scrolla.
 
 ## Tekniskt
 

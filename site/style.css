@@ -54,7 +54,7 @@ a { color: inherit; }
 .leaflet-popup-content p { margin: 0; color: var(--mork-gra); }
 .leaflet-popup-content .af-lankar { margin-top: 8px; }
 
-.af-pin { background: none; border: 0; }
+.af-pin { background: none; border: 0; display: flex; align-items: center; justify-content: center; }
 .af-pin span {
   display: block; width: 16px; height: 16px; border-radius: 50%; background: var(--svart);
   border: 3px solid #fff; box-shadow: 0 1px 4px rgba(0,0,0,.4);
